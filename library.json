@@ -14,5 +14,7 @@
   },
   "frameworks": "arduino",
   "platforms":"espressif8266",
-  "libCompatMode": "strict"
+  "build": {
+    "libCompatMode": "strict"
+  } 
 }
